@@ -1,0 +1,6 @@
+tensorflow 
+cryptography 
+numpy 
+pandas 
+pillow
+scikit-image
